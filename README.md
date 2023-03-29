@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shashankmahalle5@gmail.com**
 
-- ⚡ Fun fact **My favorite inspirational quote is "If you don't sacrifice for what you want,what you want become sacrifice".**
+- ⚡ Fun fact ** I am Very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
