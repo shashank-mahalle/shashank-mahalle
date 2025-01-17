@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashankmahalle" target="blank"><img src="https://img.shields.io/twitter/follow/shashankmahalle?logo=twitter&style=for-the-badge" alt="shashankmahalle" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java,Data Structure,Web Developement**
 
